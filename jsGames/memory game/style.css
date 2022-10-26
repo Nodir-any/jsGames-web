@@ -1,0 +1,18 @@
+.grid{
+	display: flex;
+	flex-wrap: wrap;
+	width: 612px;
+	height: 612px;
+}
+.square{
+	height: 200px;
+	width: 200px;
+	border: solid black 2px;
+ }
+ 
+ .mole{
+	 width: 200px;
+	 height: 200px;
+	 background-image: url("./puppy.jpg");
+	 background-size: cover;
+ }
