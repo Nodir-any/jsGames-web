@@ -5,8 +5,8 @@
 	height: 612px;	/*if wanted it could be made smaller 312x312*/
 }
 .square{
-	height: 200px;
-	width: 200px;
+	height: 200px; /*if wanted it could be made smaller 100x100*/
+	width: 200px;	/*if wanted it could be made smaller 100x100*/
 	border: solid black 2px;
  }
  
