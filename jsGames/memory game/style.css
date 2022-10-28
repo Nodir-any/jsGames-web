@@ -11,8 +11,8 @@
  }
  
  .mole{
-	 width: 200px;
-	 height: 200px;
+	 width: 200px;	/*if wanted it could be made smaller 100x100*/
+	 height: 200px;	/*if wanted it could be made smaller 100x100*/
 	 background-image: url("./puppy.jpg");
 	 background-size: cover;
  }
