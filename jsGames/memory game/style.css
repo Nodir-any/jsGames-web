@@ -1,8 +1,8 @@
 .grid{
 	display: flex;
 	flex-wrap: wrap;
-	width: 612px;
-	height: 612px;
+	width: 612px;	/*if wanted it could be made smaller 312x312*/
+	height: 612px;	/*if wanted it could be made smaller 312x312*/
 }
 .square{
 	height: 200px;
