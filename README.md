@@ -1,3 +1,3 @@
 # jsGames-web
 RockPaperScissors game
-*[] It is important
+/*It is important*/
