@@ -1,5 +1,5 @@
 # jsGames-web
 <ol>
-<liRockPaperScissors></li>
+<li>RockPaperScissors</li>
 </ol>
 
