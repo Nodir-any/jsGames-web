@@ -1,6 +1,6 @@
 # jsGames-web
 <ol>
 <li>RockPaperScissors</li>
-<li>HitTheTarget</li>
+<li color="red">HitTheTarget</li>
 </ol>
 
